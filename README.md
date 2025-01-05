@@ -39,6 +39,6 @@ interests:
 ```
 
 ## Languages
-![Langs](https://skillicons.dev/icons?i=html,css,js,ts,c,cs,cpp,py")
+![Langs](https://skillicons.dev/icons?i=html,css,js,ts,c,cs,cpp,python")
 ## Technologies
 ![Techs](https://skillicons.dev/icons?i=dotnet,express,nextjs,nodejs,mongodb,mysql,firebase,git,github,figma,npm,vim,visualstudio,vscode,clion,pycharm,linkedin,stackoverflow")
